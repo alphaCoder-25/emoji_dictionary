@@ -8,6 +8,32 @@ var emojiDictionary = {
   "🥡": "takeout box",
   "❤️": "love",
   "😑": "annoyance"
+  "😀": "grinning face",
+  "😁": "beaming face",
+  "😂": "face with tears of joy",
+  "🤣": "rolling on the floor laughing",
+  "😜": "winking face with toungue",
+  "😊": "smiling face",
+  "😉": "winking face",
+  "😎": "smiling face with sunglasses",
+  "😍": "smiling face with heart eyes",
+  "😘": "face blowing a kiss",
+  "🤗": "hugging face",
+  "🤩": "star-stuck",
+  "🤔": "thinking face",
+  "😋": "face souvering food",
+  "🙂": "slightly smiling face",
+  "🤨": "face with raised eyebrow",
+  "😐": "neutral face",
+  "😑": "expressionless face",
+  "😶": "face in clouds",
+  "🙄": "face with rolling eyes",
+  "😏": "smirking face",
+  "😥": "sad but relieved face",
+  "😮": "faced with open mouth",
+  "😪": "sleepy face",
+  "🥱": "yawning face",
+  "😴": "sleeping face"
 };
 
 var emojisWeKnow = Object.keys(emojiDictionary);
