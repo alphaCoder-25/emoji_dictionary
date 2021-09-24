@@ -7,7 +7,7 @@ var emojiDictionary = {
   "😔": "sad",
   "🥡": "takeout box",
   "❤️": "love",
-  "😑": "annoyance"
+  "😑": "annoyance",
   "😀": "grinning face",
   "😁": "beaming face",
   "😂": "face with tears of joy",
